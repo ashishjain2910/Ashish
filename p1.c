@@ -7,6 +7,9 @@ int main()
 	int a[6]={-5,2,5,-3,2,3};
 	int i,j,temp,com=1;
 
+
+	printf("Hello Ashish\n");
+
 	for(i=0;i<6;i++)
 	{
 		for(j=i+1;j<6;j++)                 //for(j=i;j<6;j++)
